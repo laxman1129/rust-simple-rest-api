@@ -17,7 +17,3 @@ cargo add actix-web serde serde_json dotenv
 
 cargo run
 ```
-
-## Topics 
-
-- 
